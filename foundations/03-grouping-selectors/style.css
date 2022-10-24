@@ -1,0 +1,13 @@
+.bir-numara{
+    background-color: black;
+    color: white;
+}
+
+.iki-numara{
+    background-color: yellow;
+}
+
+.bir-numara,.iki-numara{
+    font-family: Times New Roman, Helvetica, sans-serif;
+    font-size: 28px;
+}
