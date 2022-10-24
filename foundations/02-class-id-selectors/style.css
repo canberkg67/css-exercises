@@ -1,0 +1,19 @@
+#ikinumara{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#dörtnumara{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(144, 238, 144);
+}
+
+.ortak{
+    background-color: rgb(239, 158, 170);
+    font-family: Verdana, "DejaVu Sans" sans-serif;
+}
+
+.cool{
+    font-size: 24px;
+}
